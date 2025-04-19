@@ -11,10 +11,14 @@
             "id": "287ae297fab6c1fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Geographical and Historical Foundations of Pakistan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Geographical and Historical Foundations of Pakistan"
             }
           }
         ]
@@ -161,9 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8e936c756e2517",
+  "active": "287ae297fab6c1fa",
   "lastOpenFiles": [
+    "README/Untitled.md",
     "Geographical and Historical Foundations of Pakistan.md",
+    "README",
     "PST Notes"
   ]
 }
