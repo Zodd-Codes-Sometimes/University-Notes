@@ -1,4 +1,4 @@
-## Geographical Importance
+## Geographical Foundations
 
 Geography shapes politics by influencing borders, resource distribution, and strategic advantages. Natural features like mountains and rivers define political boundaries, while access to resources (e.g., oil, water) fuels power dynamics and conflicts. Strategic locations, such as trade routes or choke points (e.g., Suez Canal), grant geopolitical leverage.
 
@@ -21,3 +21,4 @@ Geography shapes politics by influencing borders, resource distribution, and str
 7. **Partnerships in Central Asia**: The Turkmenistan-Afghanistan-Pakistan-India gas pipeline aims to transport Central Asian natural gas to South Asia, with Pakistan as a critical transit state. CASA-1000, an electricity transmission project connecting Kyrgyzstan and Tajikistan to Pakistan and Afghanistan, leverages Central Asia’s hydropower surplus to address Pakistan’s energy crisis.
 8. **Proximity to Afghanistan**: Pakistan plays a vital role in maintaining order in Afghanistan due to their shared border and ethnic ties. This proximity influences trade policy, security, and regional geopolitical rivalries (Related: [Afghanistan–Pakistan relations - Wikipedia](https://en.wikipedia.org/wiki/Afghanistan%E2%80%93Pakistan_relations)).
 
+Continued: [[Historical Foundations of Pakistan]]
