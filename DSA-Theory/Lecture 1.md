@@ -45,6 +45,11 @@ Z = &A;
 ```
 
 
+#### [[#Pointer Concept]] - Diagram
+
+The Diagram shows a memory stack where data is stored on basis of byte-space required.* 
+
+![[Stack Memory _ Lec1.jpg]]
 # Q1: Write code to copy Arr1 into Arr2
 
 ```
@@ -83,7 +88,17 @@ int main(void) {
 
 int main(void) {
     int arr1[] = {90, 60, 65, 85, 72, 52};
-    
+    for (int = i; i < arr1.length; i++)
+    {
+	    if (arr1[i] > arr[i+1])
+	    {
+		    big = arr1[i];
+		    if (big > arr1[i])
+		    {
+			    printf("big = %d", big);
+		    }	    
+		}
+    }  
 }
 
 ```
