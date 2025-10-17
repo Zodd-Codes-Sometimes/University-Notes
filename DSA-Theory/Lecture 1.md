@@ -56,7 +56,7 @@ The Diagram shows a memory stack where data is stored on basis of byte-space req
 // In C
 
 void main (void){
-int arr1[] = {90, 60, 65, 85, 72, 52}
+int arr1[] = {90, 60, 65, 85, 72, 52};
 int arr2[];
 	for (int i = 0; i <=5; i++){
 	arr2[i]=arr1[i];
