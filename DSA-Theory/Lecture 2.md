@@ -14,16 +14,17 @@ arr [7] = 0;
 ```
 
 ```
-void main (void){
-int ar[] = {12, 17, 15, 18, 21, 20, 35};
-for (int i = 0; i < arr.length; i++){
-	if (i == arr.length){
-		arr[i]= 0;
-		break;
-		}
-		arr[i] = arr[i+1];
-	}
+void main(void) {
+    int ar[] = {12, 17, 15, 18, 21, 20, 35};
+    for (int i = 0; i < arr.length; i++) {
+        if (i == arr.length) {
+            arr[i] = 0;
+            break;
+        }
+        arr[i] = arr[i + 1];
+    }
 }
+
 ```
 # Q2: Write the same array in a reverse order
 
@@ -41,10 +42,11 @@ arr [7] = Arr [0];
 ```
 
 ```
-void main (void){
-int ar[] = {12, 17, 15, 18, 21, 20, 35};
-for (int i = 0; i < arr.length; i++) {
-        arr1[i] = arr1[7 - i];  
+void main(void) {
+    int ar[] = {12, 17, 15, 18, 21, 20, 35};
+
+    for (int i = 0; i < arr.length; i++) {
+        arr1[i] = arr1[7 - i];
     }
 }
 ```
@@ -52,5 +54,17 @@ for (int i = 0; i < arr.length; i++) {
 # Q3: Find the biggest number in the array
 
 ```
+void main(void) {
+    int arr[] = {12, 17, 15, 18, 21, 20, 35};
+    int n = sizeof(arr) / sizeof(arr[0]);
+    int max = arr[0];  // assume first element is the largest
 
+    for (int i = 1; i < n; i++) {
+        if (arr[i] > max) {
+            max = arr[i];
+        }
+    }
+
+    printf("The largest number in the array is: %d\n", max);
+}
 ```
