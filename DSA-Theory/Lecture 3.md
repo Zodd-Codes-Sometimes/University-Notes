@@ -68,6 +68,8 @@ int main() {
 # Binary Search Code
 
 ```
+// Code in Cpp
+
 #include <iostream>
 
 int binarySearch(int arr[], int n, int target) {
