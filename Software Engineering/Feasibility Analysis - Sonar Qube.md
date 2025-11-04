@@ -1,0 +1,5 @@
+client
+scope
+potential benefits
+resources
+obstacles
