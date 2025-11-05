@@ -34,7 +34,7 @@ void main(void) {
 arr [0] = Arr [7];
 arr [1] = Arr [6];
 arr [2] = Arr [5];
-arr [3]= Arr [3];
+arr [3] = Arr [3];
 arr [5] = Arr [2];
 arr [6] = Arr [1];
 arr [7] = Arr [0];
